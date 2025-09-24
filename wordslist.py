@@ -1,2 +1,7 @@
-#words for hangman game
-words = ("Lion, Tiger, Elephant, Dog, Cat, Cow, Horse, Goat, Monkey, Kangaroo, Zebra, Bear, Deer, Giraffe, Rabbit, Peacock, Parrot, Crow, Eagle, Owl, Penguin, Duck, Hen, Pigeon, Swan, Fish, Dolphin, Whale, Shark, Octopus, Crab, Starfish, Jellyfish, Seal, Turtle, Snake, Crocodile, Lizard, Frog, Tortoise, Chameleon, Butterfly, Bee, Ant, Spider, Grasshopper, Mosquito")
+words = [
+    "lion", "tiger", "elephant", "dog", "cat", "cow", "horse", "goat", "monkey", "kangaroo",
+    "zebra", "bear", "deer", "giraffe", "rabbit", "peacock", "parrot", "crow", "eagle", "owl",
+    "penguin", "duck", "hen", "pigeon", "swan", "fish", "dolphin", "whale", "shark", "octopus",
+    "crab", "starfish", "jellyfish", "seal", "turtle", "snake", "crocodile", "lizard", "frog",
+    "tortoise", "chameleon", "butterfly", "bee", "ant", "spider", "grasshopper", "mosquito"
+]
